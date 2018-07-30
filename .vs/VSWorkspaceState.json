@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\JCSoft.Utils",
+    "\\JCSoft.Utils\\JCSoft.Utils.Datas",
+    "\\JCSoft.Utils\\src",
+    "\\JCSoft.Utils\\src\\JCSoft.Utils.Commons"
   ],
   "PreviewInSolutionExplorer": false
 }
